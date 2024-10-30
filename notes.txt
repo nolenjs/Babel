@@ -1,0 +1,14 @@
+https://dev.to/devland/build-a-real-time-chat-app-using-nodejs-and-websocket-441g
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API
+
+event.preventDefault() = prevents fields from clearing after submission
+
+Google Cloud Translate API link = 
+        https://translation.googleapis.com/language/translate/v2?key=<putyourkeyhere>
+
+mongosh "mongodb+srv://cluster0.v7fp6.mongodb.net/" --apiVersion 1 --username 10766374
+    Password is HolyRose1911
+
+"npm init" to create package.json
+
+Hit "Run and Debug" in VSCode to run app.mjs

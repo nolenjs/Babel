@@ -1,0 +1,29 @@
+<!DOCTYPE html> <!-- !DOCTYPE makes it HTML5 -->
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- <link rel="stylesheet" href="./index.css"> -->
+        <title>Minimlist chat App</title>
+    </head>
+
+    <body>
+        <div class="container">
+            <p class="msg">Messages:</p>
+            <div id="messages" class="messages"></div>
+            <form id="loginForm" class="msgForm">
+                <input type="text" placeholder="Username" class="input" id="username" />
+                <input type="text" placeholder="en" class="input" id="lang" />
+                <input type="submit" class="btn" id="loginBtn" value="Login" onclick="login()">
+            </form>
+            <form id="msgForm" class="msgForm">
+                <input type="text" placeholder="Send message" class="input" id="inputBox" />
+                <input type="submit" class="btn" value="Send">
+            </form>
+        </div>
+        <!-- <script src="./index.js" type="type/javascript"></script> -->
+    </body>
+
+</html>

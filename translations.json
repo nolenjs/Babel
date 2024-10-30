@@ -1,0 +1,14 @@
+{"requests":[
+    {
+        "msg_type": "msg",
+        "msg": "hello",
+        "lang": "en",
+        "trans": ["es","fj"],
+        "translations": {}
+    },
+    {
+        "msg_type": "lang",
+        "lang": "en",
+        "user": "Someone"
+    }
+]}
